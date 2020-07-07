@@ -1,0 +1,22 @@
+{
+    "name": "28BYJ-48 Stepper Motor 5V DC",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "robotbit": "github:kittenbot/pxt-robotbit#v0.3.6"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
